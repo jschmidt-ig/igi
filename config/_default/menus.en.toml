@@ -12,38 +12,34 @@ url = "/about"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "/elements"
+name = "Oria"
+url = "/oria"
 weight = 3
 
 [[main]]
+name = "Platform"
+url = "/platform"
 weight = 4
-name = "Pages"
 
 [[main]]
-parent = "Pages"
-name = "Blog"
-url = "/blog"
+name = "Impact"
+url = "/impact"
+weight = 5
 
 [[main]]
-parent = "Pages"
 name = "Contact"
 url = "/contact"
+weight = 6
 
 [[main]]
-parent = "Pages"
-name = "Authors"
-url = "/authors"
+name = "Donate"
+url = "/donate"
+weight = 7
 
 [[main]]
-parent = "Pages"
-name = "Categories"
-url = "/categories"
-
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "/404"
+name = "Invest"
+url = "/invest"
+weight = 8
 
 
 # footer menu
@@ -53,8 +49,8 @@ url = "/about"
 weight = 1
 
 [[footer]]
-name = "Elements"
-url = "/elements"
+name = "Contact"
+url = "/contact"
 weight = 2
 
 [[footer]]

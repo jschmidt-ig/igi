@@ -1,53 +1,67 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Unified Care. Smarter Tools. Better Lives."
+  content: "Innovative Solutions Initiative (ISI) is building Oria — an AI model trained to read medical and therapy documents, detect key insights, and deliver clear care recommendations. Our mission is simple: transform care delivery for families, providers, and communities everywhere."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Learn About Oria"
+    link: "/oria"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "The Problem We're Solving"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "Healthcare today is fragmented. Data lives in silos, transitions break down, and manual processes overwhelm both professionals and families. The result is lost time, lost outcomes, and a system too complex for the people it's meant to serve."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Medical records scattered across multiple systems"
+      - "Manual processes creating delays and errors"
+      - "Families struggling to coordinate care"
+      - "Providers lacking real-time insights"
+      - "Lost time and compromised outcomes"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Learn More About Our Mission"
+      link: "/about"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Our Solution: Oria AI"
+    image: "/images/service-2.png"
+    content: "Oria instantly processes medical, therapy, and academic records to produce summaries, recommendations, and personalized care plans. Providers gain real-time insights. Families gain clarity. Communities gain better outcomes."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Concise document summaries and actionable recommendations"
+      - "Early detection of behavioral or health anomalies"
+      - "Personalized care plan suggestions"
+      - "Automated intake assessments"
+      - "Faster onboarding and fewer documentation errors"
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Discover Oria"
+      link: "/oria"
+
+  - title: "Systemic Impact & Growth"
+    image: "/images/service-3.png"
+    content: "ISI is designed to create systemic impact across healthcare, accelerating clinical trials, reducing costs, and strengthening public health readiness through early behavioral health trend identification."
+    bulletpoints:
+      - "Accelerate clinical trials by matching patients faster"
+      - "Reduce healthcare costs through automated outcome tracking"
+      - "Strengthen public health readiness with early trend detection"
+      - "Scale from thousands to millions in projected net income"
+      - "Sustainable profitability with exponential adoption"
+    button:
+      enable: true
+      label: "View Our Impact"
+      link: "/impact"
+
+# Call to Action Section
+cta:
+  title: "Join Us in Transforming Healthcare"
+  content: "Whether you're a nonprofit looking to support innovation or an investor seeking growth opportunities, ISI offers a chance to make a meaningful impact."
+  buttons:
+    - label: "Donate Now"
+      link: "/donate"
+      primary: true
+    - label: "Investment Opportunities"
+      link: "/invest"
+      primary: false
 ---

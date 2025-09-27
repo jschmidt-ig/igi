@@ -1,8 +1,8 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "/igi/"
+baseURL = "https://jschmidt-ig.github.io/igi/"
 # Title of your website (required).
-title = "Hugoplate"
+title = "Innovative Solutions Initiative"
 # Your theme name
 theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
